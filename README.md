@@ -27,6 +27,6 @@ The app starts in `lib/main.dart`. Screens are in `lib/screens/`, shared widgets
 
 ### Related project
 
-[Diary+](https://github.com/esatkee/MOB) is a related diary application with Supabase-backed data and more modular helpers.
+[Diary+](https://github.com/esatkee/diary-plus) is a related diary application with Supabase-backed data and more modular helpers.
 
 </details>
